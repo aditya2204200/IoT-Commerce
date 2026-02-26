@@ -184,6 +184,12 @@ body {
 #product1{
     text-align: center;
 }
+#product1 .pro-containeer{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    flex-wrap: wrap;
+}
 #product1 .pro{
     width: 23%;
     min-width: 250px;
@@ -194,6 +200,7 @@ body {
     box-shadow: 20px 20px 30px rgba(0,0,0,0.06);
     margin: 15px 0;
     transition: 0.2s ease;
+    position: relative;
 }
 
 #product1 .pro img{
@@ -232,8 +239,14 @@ body {
     line-height: 40px;
     border-radius: 50px;
     background-color: #e8f6ea;
+    color: #088178;
+    border: 1px solid #cce7d0;
+    position: absolute;
+    bottom: 20px;
+    right: 10px;
 }
 .imagee{
     width: 100px;
 }
+
 
