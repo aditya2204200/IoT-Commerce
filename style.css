@@ -691,6 +691,13 @@ footer .copyright{
     background: #088178;
     color: #fff;
 }
+#prodetails .single-pro-details input:focus{
+    outline: none;
+}
+#prodetails .single-pro-details span{
+    line-height: 25px;
+}
+
 
 
 
