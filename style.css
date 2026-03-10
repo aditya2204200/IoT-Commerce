@@ -610,6 +610,17 @@ footer .copyright{
     footer .copyright{
         text-align: start;
     }
+     #prodetails{
+        display: flex;
+        flex-direction: column;
+    }
+    #prodetails .single-pro-image{
+        width: 100%;
+        margin-right: 50px;
+    }
+     #prodetails .single-pro-details{
+        width: 100%;
+    }
 }
 
 // Shop page
@@ -697,6 +708,7 @@ footer .copyright{
 #prodetails .single-pro-details span{
     line-height: 25px;
 }
+
 
 
 
