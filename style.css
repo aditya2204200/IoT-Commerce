@@ -785,6 +785,19 @@ background-color: #088178;
 }
 
 
+/* shop header */
+#page-header.shop-header{
+    background-image: url(backgroundimg7.jpg);
+    width: 100%;
+    height: 40vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    padding: 14px;
+}
+
 
 
 
