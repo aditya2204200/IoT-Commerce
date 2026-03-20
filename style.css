@@ -910,6 +910,14 @@ background-color: #088178;
     border: 1px solid#e1e1e1 ;
 }
 
+#form-details form button{
+    background-color: #088178;
+    color: #fff;
+}
+.adi{
+    width: 100px;
+}
+
 
 
 
